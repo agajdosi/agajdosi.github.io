@@ -486,8 +486,6 @@ figure.effect-goliath:hover p {
 
   .tm-section {
     margin: 0 auto;
-    padding-left: 15px;
-    padding-right: 15px;
     width: 100%;
   }
 
@@ -498,13 +496,15 @@ figure.effect-goliath:hover p {
 
 @media (max-width: 767px) {
   .tm-site-title {
-    font-size: 3rem;
+    font-size: 2rem;
   }
   .tm-top-container {
     flex-direction: column;
+    padding: 15px;
   }
 
   .tm-site-header-box {
+    padding: 45px;
     margin-bottom: 50px;
   }
 
@@ -515,8 +515,6 @@ figure.effect-goliath:hover p {
 
   .tm-section {
     margin: 0 auto;
-    padding-left: 15px;
-    padding-right: 15px;
     width: 100%;
   }
 
