@@ -79,6 +79,8 @@ a {
   display: flex;
   justify-content: flex-end;
   width: 100%;
+  z-index: 100;
+  position: relative;
 }
 
 .tm-static {
@@ -135,6 +137,9 @@ a {
 
 .tm-bottom-container {
   width: 100%;
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
 }
 
 footer {
