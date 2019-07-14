@@ -13,8 +13,8 @@ h1,h2,h3,h4 {
     font-family: 'Fruktur', cursive;
 }
 
-h1,h2 {
-    text-align: inherit;
+h1 {
+    margin: 0 0 50px 0;
 }
 
 h2 {
@@ -51,5 +51,32 @@ ul {
 
 #navbar {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
+}
+
+#navbar > a {
+    margin: 10px;
+}
+
+@media only screen and (max-width: 1000px) {
+    body {
+        font-size: 0.75em;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 0.5em;
+    }
+
+    #navbar {
+        justify-content: space-between;
+    }
+}
+
+@media only screen and (max-height: 500px) {
+    #headbar {
+        margin: 10vh 0 50vh 0;
+    }
 }
