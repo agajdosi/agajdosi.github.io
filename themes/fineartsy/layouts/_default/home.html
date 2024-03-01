@@ -1,7 +1,16 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
+
+  
+  {{ range  ( where .Site.RegularPages "Type" "pieces" ) }}
+    <h4>{{ .Title }}</h4>
   {{ end }}
+
+
+
+  {{ range site.Sections }}
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+  {{ end }}
+
 {{ end }}

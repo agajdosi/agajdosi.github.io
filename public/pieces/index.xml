@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pieces on My New Hugo Site</title>
+    <title>Pieces on webpage</title>
     <link>http://localhost:1313/pieces/</link>
-    <description>Recent content in Pieces on My New Hugo Site</description>
+    <description>Recent content in Pieces on webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 16:05:48 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/pieces/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kometak</title>
+      <link>http://localhost:1313/pieces/kometak/</link>
+      <pubDate>Fri, 01 Mar 2024 16:05:48 +0100</pubDate>
+      <guid>http://localhost:1313/pieces/kometak/</guid>
+      <description>Kometak, 2020.</description>
+    </item>
+    <item>
+      <title>Unhuman Resources</title>
+      <link>http://localhost:1313/pieces/unhuman/</link>
+      <pubDate>Fri, 01 Mar 2024 16:05:48 +0100</pubDate>
+      <guid>http://localhost:1313/pieces/unhuman/</guid>
+      <description>Unhuman resources text.</description>
+    </item>
+    <item>
+      <title>Verejne prospesne umelecke prace</title>
+      <link>http://localhost:1313/pieces/verejne-prace/</link>
+      <pubDate>Fri, 01 Mar 2024 16:05:48 +0100</pubDate>
+      <guid>http://localhost:1313/pieces/verejne-prace/</guid>
+      <description>Unhuman resources text.</description>
+    </item>
   </channel>
 </rss>

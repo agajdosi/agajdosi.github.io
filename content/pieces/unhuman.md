@@ -1,7 +1,7 @@
 +++
-title = 'Pieces'
+title = 'Unhuman Resources'
 date = 2024-03-01T16:05:48+01:00
 draft = false
 +++
 
-Some text
+Unhuman resources text.
