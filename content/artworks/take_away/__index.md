@@ -1,6 +1,6 @@
 +++
 title = 'Take Away'
-date = 2024-03-01T16:05:48+01:00
+date = 2017-05-01T16:05:48+01:00
 draft = false
 +++
 Take Away (2017) is a gallery project which consisted of 330 criminal complaints for incitement of hatred.

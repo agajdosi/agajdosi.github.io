@@ -1,6 +1,6 @@
 +++
 title = 'Dusk /Simulation 1/'
-date = 2024-03-01T16:05:48+01:00
+date = 2014-03-01T16:05:48+01:00
 draft = false
 +++
 Dusk /Simulation 1/ is a video of shopping mall interior from which were removed all moving objects.

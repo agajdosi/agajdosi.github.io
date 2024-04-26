@@ -1,6 +1,6 @@
 +++
 title = 'Nomin'
-date = 2024-03-01T16:05:48+01:00
+date = 2018-03-01T16:05:48+01:00
 draft = false
 +++
 Nomin (2017-2018) is project in progress on the edge of software, institutional critique and collective performance.

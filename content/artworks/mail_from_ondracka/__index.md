@@ -1,6 +1,6 @@
 +++
 title = 'Mail from mr. Ondracka'
-date = 2024-03-01T16:05:48+01:00
+date = 2017-03-01T16:05:48+01:00
 draft = false
 +++
 Using custom bash script and telnet I have sent fake mail to vast majority of students at Faculty of Fine Arts.

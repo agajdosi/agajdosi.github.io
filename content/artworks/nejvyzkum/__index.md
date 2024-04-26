@@ -1,6 +1,6 @@
 +++
 title = 'NejVyzkum.cz'
-date = 2024-03-01T16:05:48+01:00
+date = 2020-03-01T16:05:48+01:00
 draft = false
 +++
 link:https://nejvyzkum.cz[Nejvyzkum.cz]: nejlepší z možných výzkumů (in english: Bestresearch.cz: Best of All Possible Researches) is a subversive online psychological test created in collaboration with Barbora Šimková.

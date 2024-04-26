@@ -1,6 +1,6 @@
 +++
 title = 'Sauna / What Dean Promised I am Doing'
-date = 2024-03-01T16:05:48+01:00
+date = 2017-01-01T16:05:48+01:00
 draft = false
 +++
 As part of pre-election promises for both terms the current dean of Faculty of Fine Arts promised a school sauna for students and employees of faculty.

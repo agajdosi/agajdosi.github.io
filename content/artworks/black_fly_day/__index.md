@@ -1,6 +1,6 @@
 +++
 title = 'Black Fly Day'
-date = 2024-03-01T16:05:48+01:00
+date = 2020-03-01T16:05:48+01:00
 draft = false
 +++
 Using industrial waste from material bank provided by PLATO I have created two boxes for cultivation of meat flies in the exhibition space.

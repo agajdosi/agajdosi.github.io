@@ -1,6 +1,6 @@
 +++
 title = 'NarodniLiga.cz'
-date = 2024-03-01T16:05:48+01:00
+date = 2016-05-01T16:05:48+01:00
 draft = false
 +++
 Narodniliga.cz/NationalLeague.cz (2016) is a fake web of czech anti-islamic movement.

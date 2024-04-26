@@ -1,6 +1,6 @@
 +++
 title = 'Rtutík / Mercurie'
-date = 2024-03-01T16:05:48+01:00
+date = 2019-08-01T16:05:48+01:00
 draft = false
 +++
 In 2019 the Regional Office in Pardubice approved emission exception for Chvaletice power plant.

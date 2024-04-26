@@ -1,6 +1,6 @@
 +++
 title = 'Truthify'
-date = 2024-03-01T16:05:48+01:00
+date = 2022-03-01T16:05:48+01:00
 draft = false
 +++
 Truthify is a speculative video (7:38) about the eponymous startup that seeks to manipulate the perception of reality of future neural networks through the manipulation of open source datasets.

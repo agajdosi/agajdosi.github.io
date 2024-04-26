@@ -1,6 +1,6 @@
 +++
 title = 'Rumours to MIDI'
-date = 2024-03-01T16:05:48+01:00
+date = 2015-09-01T16:05:48+01:00
 draft = false
 +++
 Rumours to MIDI (2015) is a custom program written in Python.

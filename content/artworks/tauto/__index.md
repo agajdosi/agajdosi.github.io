@@ -1,6 +1,6 @@
 +++
 title = 'Tauto'
-date = 2024-03-01T16:05:48+01:00
+date = 2021-06-01T16:05:48+01:00
 draft = false
 +++
 Tauto is artistic software for activists and anybody else which allows to spread comments on Twitter.

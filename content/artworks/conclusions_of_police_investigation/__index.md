@@ -1,6 +1,6 @@
 +++
 title = 'Conclusions of Police Investigation'
-date = 2024-03-01T16:05:48+01:00
+date = 2018-03-01T16:05:48+01:00
 draft = false
 +++
 Conclusions of Police Investigation is a site-specific video created for exhibition at gallery Umakart.
