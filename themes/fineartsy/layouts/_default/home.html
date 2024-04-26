@@ -2,15 +2,29 @@
   {{ .Content }}
 
   
-  {{ range  ( where .Site.RegularPages "Type" "pieces" ) }}
-    <h4>{{ .Title }}</h4>
-  {{ end }}
-
-
-
-  {{ range site.Sections }}
-    <h2>{{ .Title }}</h2>
+  {{ with .Site.GetPage "bio"}}
+  <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
     {{ .Content }}
   {{ end }}
+
+  <h2>Artworks</h2>
+  {{ range  ( where .Site.RegularPages "Type" "pieces" ) }}
+    <h3>{{ .Title }}</h3>
+    {{ .Content }}
+  {{ end }}
+
+  <h2>Exhibitions</h2>
+  {{ range  ( where .Site.RegularPages "Type" "exhibitions" ) }}
+    <h3>{{ .Title }}</h3>
+    {{ .Content }}
+  {{ end }}
+
+  <h2>Mentions</h2>
+  {{ with .Site.GetPage "mentions"}}
+    {{ .Content }}
+  {{ end }}
+
+  <h2>Contact</h2>
+  andreas at gajdosik dot org
 
 {{ end }}
