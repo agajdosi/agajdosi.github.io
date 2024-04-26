@@ -1,6 +1,7 @@
 {{ define "main" }}
   {{ .Content }}
 
+
   
   {{ with .Site.GetPage "bio"}}
   <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
