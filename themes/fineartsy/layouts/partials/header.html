@@ -1,10 +1,10 @@
-<div id="header">
+<header>
     <div class="left">
         <a href="{{ .Site.BaseURL }}">{{ .Site.Title}}</a>
     </div>
     <div class="right">
         {{ range sort .Site.Sections "Weight" "desc" }}
-        <a href="{{ .Permalink }}">{{ .Title }}</h1>
-        {{ end }}      
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ end }}
     </div>
-</div>
+</header>

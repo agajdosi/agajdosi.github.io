@@ -4,9 +4,12 @@ date = 2024-03-01T17:47:29+01:00
 draft = false
 +++
 
-## CV
-
-MgA. Andreas Gajdosik. Born in June 1992. Living in Prague, Czech Republic.
+Born 1992, Czech and Slovak Federative Republic, based in Prague.
+Is an artist and software developer.
+He focuses on useful art, socially engaged projects and artivism which often incorporate programming, new technologies and interventional provocative attitudes.
+He is interested in ethical source software, sharing, DIY culture and experimental forms.
+Was member of dissolved Pavel Ondračka collective.
+Award holder of Jindrich Chalupecky Award 2019.
 
 ### Education
 
