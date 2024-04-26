@@ -2,12 +2,13 @@
   {{ .Content }}
 
   <h2>Latest</h2>
-  {{ range first 5 (sort .Site.RegularPages "Date" "desc") }}
+  {{ $pages := where .Site.RegularPages "Section" "not in" (slice "exhibitions" "cv") }}
+  {{ range first 5 (sort $pages "Date" "desc") }}
     <div>
       <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-      Published on: {{ .Date.Format "January 2, 2006" }}
+      {{ .Date.Format "1 March 2006" }}
+      <p>{{ .Summary }}</p>
     </div>
-      
   {{ end }}
 
   <h2>Contact</h2>
