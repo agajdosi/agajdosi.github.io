@@ -1,6 +1,6 @@
 +++
 title = 'Crisis Fund'
-date = 2024-03-13T12:00:00+01:00
+date = 2024-03-16T12:00:00+01:00
 draft = false
 tags = ["arte_útil", "institutional_critique"]
 +++
