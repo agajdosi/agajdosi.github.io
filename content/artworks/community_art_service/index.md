@@ -2,7 +2,7 @@
 title = 'Veřejně prospěšné umělecké práce / Community Art Service'
 date = 2022-04-10T16:05:48+01:00
 draft = false
-tags = ["arte_útil"]
+tags = ["arte_útil", "performance"]
 +++
 In order to explore the meaning of art in times of pandemic and war, I decided to be radically useful.
 Wearing a work suit with the inscription "Community Art Service", I cleaned up the city of Pardubice for a month.

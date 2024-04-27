@@ -2,7 +2,7 @@
 title = 'Nejvyzkum.cz'
 date = 2020-03-01T16:05:48+01:00
 draft = false
-tags = ["software"]
+tags = ["netart", "software", "psychology", "capital"]
 +++
 link:https://nejvyzkum.cz[Nejvyzkum.cz]: nejlepší z možných výzkumů (in english: Bestresearch.cz: Best of All Possible Researches) is a subversive online psychological test created in collaboration with Barbora Šimková.
 Unlike normal psychological tests the Nejvyzkum.cz is not focused on testing its users - instead it uses crowdsourced prejudice of its users to test top 100 of Czech billionaires.
@@ -11,3 +11,7 @@ The data are then validated and psychological profiles and other results for eac
 
 One can say it is just crowdsourced biases or some kind of frenology which is however applied onto the most powerful ones instead of the weakest.
 In situation in which we have nearly zero sociological and psychhological researches about the richest this research is just the best possible of all possible/existing researches.
+
+![](1.png)
+![](2.png)
+![](3.png)

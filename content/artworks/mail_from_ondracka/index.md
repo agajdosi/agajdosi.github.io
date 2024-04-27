@@ -2,6 +2,7 @@
 title = 'Mail from mr. Ondracka'
 date = 2017-03-01T16:05:48+01:00
 draft = false
+tags = ["intervention", "hacktivism", "artistic_education"]
 +++
 Using custom bash script and telnet I have sent fake mail to vast majority of students at Faculty of Fine Arts.
 The mail looked like if it was from Vice-Dean for student affairs Pavel Ondracka: it has his email address in the header, used his style of language and welcomed all students in new building of FFA.
@@ -22,3 +23,5 @@ Some of them were:
 Changes were taken positively by students.
 Some of them even called to the office to register newly available lectures.
 The enthusiasm however ended soon when Vice-Dean announced the email was just fake and that even though he likes some ideas, nothing is going to change.
+
+![](1.jpg)

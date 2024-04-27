@@ -2,7 +2,7 @@
   {{ .Content }}
 
   <h1>Latest</h1>
-  {{ $pages := where .Site.RegularPages "Section" "not in" (slice "exhibitions" "cv") }}
+  {{ $pages := where .Site.RegularPages "Section" "not in" (slice "exhibitions" "cv" "thoughts") }}
   {{ range first 5 (sort $pages "Date" "desc") }}
     <article>
       

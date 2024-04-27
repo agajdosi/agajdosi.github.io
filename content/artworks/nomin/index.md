@@ -2,7 +2,7 @@
 title = 'Nomin'
 date = 2018-03-01T16:05:48+01:00
 draft = false
-tags = ["software"]
+tags = ["software", "intervention", "arte_útil"]
 +++
 Nomin (2017-2018) is project in progress on the edge of software, institutional critique and collective performance.
 Its main goal is to help artists from weakened social groups (students, pregnant artists, those who live outside big centers, easterners) with acceleration of their careers.
@@ -17,3 +17,7 @@ Nomin is meant to be an open for collaboration and community friendly project.
 Its source code, documentation and latest releases live on link:https://github.com/nomin-project/nomin[github.com/nomin-project/nomin], where bugs, questions or feature requests can be submitted.
 More information about Nomin is also available on its site link:https://www.nomin.cloud[www.nomin.cloud].
 Several workshops for students and an exhibition "Do It Yourself" at Faculty of Art and Design in Usti nad Labem was held as part of the Nomin project.
+
+![](1.jpg)
+![](2.jpg)
+![](3.jpg)

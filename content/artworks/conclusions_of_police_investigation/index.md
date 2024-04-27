@@ -2,6 +2,7 @@
 title = 'Conclusions of Police Investigation'
 date = 2018-03-01T16:05:48+01:00
 draft = false
+tags = ["intervention", "video", "prejudice"]
 +++
 Conclusions of Police Investigation is a site-specific video created for exhibition at gallery Umakart.
 In the video two persons are playing a board game Unusual Suspects.
@@ -11,4 +12,10 @@ The second person is a detective trying to make sure the right person gets locke
 However contrary to original game the version for gallery Umakart consisted of real photo portraits of frequent visitors of the gallery.
 And the questions were highly political.
 The visitors of the exhibition thus could saw what do the two random strangers think of them.
-And thus were directly confronted with prejudice of others.   
+And thus were directly confronted with prejudice of others.
+
+![Conclusions of Police Investigation, documentation photo](1.jpg)
+![Conclusions of Police Investigation, documentation photo](2.jpg)
+![Conclusions of Police Investigation, documentation photo](3.jpg)
+![Conclusions of Police Investigation, documentation photo](4.jpg)
+![Conclusions of Police Investigation, documentation photo](5.jpg)
