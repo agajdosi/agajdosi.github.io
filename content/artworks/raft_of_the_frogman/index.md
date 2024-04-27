@@ -5,7 +5,17 @@ draft = false
 tags = ["performance", "climate_change"]
 +++
 
+Performance as an interface between IT worker, frog in a pot, grotesque and ecological tragedy.
+
+I created a floating monument of recycling out of waste plastic containers for motor oil as a solution for unlimited production.
+Dressed in normcore clothing, I then took to the water to celebrate the triumph of man over the impact of man with three victorious frog leaps.
+Then it got ugly.
+
+Vacation on a warming lake turned into a nightmare for the unaware ICT worker, Mr Froggie (1-99).
+
 ![](4.jpg)
 ![](2.jpg)
 ![](3.jpg)
 ![](5.jpg)
+
+Photo: [Lukáš Hlavín](https://www.instagram.com/lukonano/)
