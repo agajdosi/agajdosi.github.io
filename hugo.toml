@@ -2,3 +2,13 @@ baseURL = 'https://gajdosik.org/'
 languageCode = 'en-us'
 title = 'Andreas Gajdosik'
 theme = 'fineartsy'
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  [params.sectionSingularNames]
+    artworks = "artwork"
+    exhibitions = "exhibition"
+    mentions = "mention"
+    thoughts = "thought"

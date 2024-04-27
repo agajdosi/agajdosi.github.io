@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <h1>All Tags</h1>
+  <ul>
+    {{ range $tagName, $tagPages := .Data.Terms }}
+      <li>
+        <!-- Building the full URL including the base URL -->
+        <a href="{{ $.Site.BaseURL }}{{ $.Site.Params.taxonomies.tag | default "tags" | urlize }}/{{ $tagName | urlize }}/">
+          {{ $tagName }} ({{ len $tagPages }})
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

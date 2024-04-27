@@ -2,7 +2,7 @@ body {
   color: #222;
   font-family: sans-serif;
   line-height: 1.5;
-  margin: 1rem;
+  margin: 0 1rem;
 }
 
 header {
@@ -22,7 +22,18 @@ img {
 
 footer {
   border-top: 1px solid #222;
-  margin-top: 1rem;
+  margin-top: 3rem;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.2rem 0 0 0;
+}
+
+.title h1 {
+  margin: 0;
+}
+
+.title {
+  margin: 2rem 0 2rem 0;
 }
 
 a {
@@ -33,6 +44,7 @@ a {
 article {
   margin: 0 0 3rem 0;
 }
-article h3 {
+
+article h2 {
   margin: 0;
 }

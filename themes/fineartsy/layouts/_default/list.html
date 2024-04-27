@@ -1,8 +1,23 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
   {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
+    <article>
+      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+      {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+      {{ $dateHuman := .Date | time.Format "1 March 2006" }}
+      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+      
+      {{ with .Params.tags }}|{{ end }}
+      {{ range .Params.tags }}
+        <a class="tag" href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/">#{{ . }}</a>
+      {{ end }}
+
+      <p>
+        {{ .Summary }}
+      </p>
+    </article>
   {{ end }}
+
 {{ end }}

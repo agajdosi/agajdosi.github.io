@@ -2,6 +2,7 @@
 title = 'Nomin'
 date = 2018-03-01T16:05:48+01:00
 draft = false
+tags = ["software"]
 +++
 Nomin (2017-2018) is project in progress on the edge of software, institutional critique and collective performance.
 Its main goal is to help artists from weakened social groups (students, pregnant artists, those who live outside big centers, easterners) with acceleration of their careers.

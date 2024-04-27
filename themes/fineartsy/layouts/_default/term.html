@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <h1>#{{ .Title | lower }}</h1>
+  {{ range .Data.Pages }}
+
+    <article>
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+      {{ $dateHuman := .Date | time.Format "1 March 2006" }}
+      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+
+
+      <p>{{ .Summary }}</p>
+    </article>
+  {{ end }}
+{{ end }}

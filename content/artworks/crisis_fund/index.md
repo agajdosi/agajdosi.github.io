@@ -2,7 +2,7 @@
 title = 'Crisis Fund'
 date = 2024-03-13T12:00:00+01:00
 draft = false
-tags = ["arte útil", "institutional critique"]
+tags = ["arte_útil", "institutional_critique"]
 +++
 
 'Crisis Fund', in the authorial duo with Jonas Svoboda, is an artwork consisting in minimizing the costs of creating the work and transferring the exhibition budget for the realization of the work to other artists.

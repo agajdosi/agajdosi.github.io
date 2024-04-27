@@ -1,14 +1,24 @@
 {{ define "main" }}
   {{ .Content }}
 
-  <h2>Latest</h2>
+  <h1>Latest</h1>
   {{ $pages := where .Site.RegularPages "Section" "not in" (slice "exhibitions" "cv") }}
   {{ range first 5 (sort $pages "Date" "desc") }}
     <article>
-      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      
       {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
       {{ $dateHuman := .Date | time.Format "1 March 2006" }}
       <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+      |
+      <a href="{{ .Site.BaseURL }}{{ .Section | urlize }}">{{ index .Site.Params.sectionSingularNames .Section | default .Section }}</a>
+      
+      {{ with .Params.tags }}>{{ end }}
+      {{ range .Params.tags }}
+        <a class="tag" href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/">#{{ . }}</a>
+      {{ end }}
+      
       <p>{{ .Summary }}</p>
     </article>
   {{ end }}
