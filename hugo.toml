@@ -2,6 +2,7 @@ baseURL = 'https://gajdosik.org/'
 languageCode = 'en-us'
 title = 'Andreas Gajdosik'
 theme = 'fineartsy'
+enableRobotsTXT = true
 
 [taxonomies]
   tag = "tags"
