@@ -2,6 +2,7 @@
 title = 'CV'
 date = 2024-03-01T17:47:29+01:00
 draft = false
+description = "Artistic CV of czech new media artist Andreas Gajdosik. List of exhibitions, publications, talks, residencies and much more."
 +++
 
 Born 1992, Czech and Slovak Federative Republic, based in Prague.

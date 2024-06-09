@@ -3,6 +3,7 @@ title = 'As I Was Seen'
 date = 2014-09-01T16:05:48+01:00
 draft = false
 tags = ["photography", "surveiallance"]
+description = "As I was seen (2014) is a series of 8 auto-portraits with use of traffic cameras around Brno."
 +++
 
 As I was seen (2014) is a series of 8 auto-portraits with use of traffic cameras around Brno.

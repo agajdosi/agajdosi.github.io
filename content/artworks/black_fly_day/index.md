@@ -3,6 +3,7 @@ title = 'Black Fly Day'
 date = 2020-06-18T16:05:48+01:00
 draft = false
 tags = ["performance", "intervention"]
+description = "Black Fly Day (2020) by Andreas Gajdosik is a disruptive performative intervention into a shopping mall in Ostrava city."
 +++
 Using industrial waste from material bank provided by PLATO I have created two boxes for cultivation of meat flies in the exhibition space.
 Grown-up flies were later released by me in two big shopping malls in the Ostrava city.

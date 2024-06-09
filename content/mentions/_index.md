@@ -2,6 +2,7 @@
 title = 'Mentions'
 date = 2024-03-01T17:04:13+01:00
 draft = false
+description = "A list of the most interesting public reflections of Andreas Gajdošík's artworks and projects."
 +++
 
 - [Vadily jim falešné účty na sítích. Vycvičili si vlastní „trollí" družstvo @ Ústecký deník.cz](https://ustecky.denik.cz/denik-v-regionech/falesne-ucty-socialni-site-facebook-troll-20210606.html)
