@@ -3,6 +3,7 @@ title = 'Power Play'
 date = 2020-03-01T16:05:48+01:00
 draft = false
 tags = ["performance", "artivism"]
+description = "Power Play is a powerful protest performance that reimagines a socially engaged, non-xenophobic hockey fan protesting against the election of racist Stanislav Křecek as ombudsman of the Czech Republic."
 +++
 
 Performance as a dreamy power play.

@@ -3,6 +3,7 @@ title = 'NarodniLiga.cz'
 date = 2016-05-01T16:05:48+01:00
 draft = false
 tags = ["web", "intervention", "netart", "software", "refugee_crisis", "hatespeech"]
+description = "Explore the disturbing reality of Czech anti-Islamic sentiment during so called migration crisis. Net art project NationalLeague.cz reveals real, shocking comments from Facebook, exposing the dark side of hate speech."
 +++
 Narodniliga.cz/NationalLeague.cz (2016) is a fake web of czech anti-islamic movement.
 It gathers data from Facebook groups which are focused against refugees and islam and makes daily, weekly and monthly rankings.

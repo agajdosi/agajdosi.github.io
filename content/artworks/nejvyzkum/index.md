@@ -3,6 +3,7 @@ title = 'Nejvyzkum.cz'
 date = 2020-03-01T16:05:48+01:00
 draft = false
 tags = ["netart", "software", "psychology", "capital"]
+description = "Internet art project Nejvyzkum is a subversive psychological test that uses crowdsourced biases to profile the top 100 Czech billionaires. Created with Barbora Šimková."
 +++
 link:https://nejvyzkum.cz[Nejvyzkum.cz]: nejlepší z možných výzkumů (in english: Bestresearch.cz: Best of All Possible Researches) is a subversive online psychological test created in collaboration with Barbora Šimková.
 Unlike normal psychological tests the Nejvyzkum.cz is not focused on testing its users - instead it uses crowdsourced prejudice of its users to test top 100 of Czech billionaires.

@@ -3,6 +3,7 @@ title = 'One Hour of Work'
 date = 2014-05-01T16:05:48+01:00
 draft = false
 tags = ["photography", "performance", "capital"]
+description = "One Hour of Work (2014) is a series of 3 photographs that explore the relationship between labor, capitalism, and art through conceptual performative photography."
 +++
 
 One Hour of Work (2014) is series of 3 photographs.
