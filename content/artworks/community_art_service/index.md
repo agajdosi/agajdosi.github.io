@@ -2,7 +2,7 @@
 title = 'Veřejně prospěšné umělecké práce / Community Art Service'
 date = 2022-04-10T16:05:48+01:00
 draft = false
-tags = ["arte_útil", "performance"]
+tags = ["arte útil", "performance"]
 description = "Community Art Service (2020) is a long term performance exploring the edges of art, usefullness and everyday life in Pardubice city, Czech republic."
 +++
 In order to explore the meaning of art in times of pandemic and war, I decided to be radically useful.

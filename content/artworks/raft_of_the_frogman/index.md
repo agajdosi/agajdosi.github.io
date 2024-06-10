@@ -2,7 +2,7 @@
 title = 'The Raft of the Frogman'
 date = 2023-09-11T16:05:48+01:00
 draft = false
-tags = ["performance", "climate_change"]
+tags = ["performance", "climate change", "ecology"]
 description = "The Raft of the Frogman is an ecological and grotesque performance where an IT worker, symbolized as Mr. Froggie, faces the dark reality of unlimited production on their vacation on a warming lake."
 +++
 

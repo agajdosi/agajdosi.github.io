@@ -2,7 +2,7 @@
 title = 'Take Away'
 date = 2017-05-01T16:05:48+01:00
 draft = false
-tags = ["software", "data_mining", "hacktivism", "refugee_crisis", "hatespeech"]
+tags = ["software", "data mining", "hacktivism", "refugee crisis", "hatespeech", "social network"]
 description = "Take Away (2017) is a provocative gallery project on the edge of software art and collective performance. It features 330 criminal complaints against hate speech on far-right Facebook pages. Engage with ethical dilemmas and societal defense."
 +++
 Take Away (2017) is a gallery project which consisted of 330 criminal complaints for incitement of hatred.

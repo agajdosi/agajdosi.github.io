@@ -2,7 +2,7 @@
 title = 'Mailbox for Feedback'
 date = 2018-03-01T16:05:48+01:00
 draft = false
-tags = ["intervention", "artistic_education", "arte_útil"]
+tags = ["intervention", "artistic education", "arte útil"]
 description = "Share your thoughts on what works and what doesn’t at the Faculty of Fine Arts in Brno with this interactive artwork: a mailbox for anonymous feedback, installed guerilla-style."
 +++
 I have installed a mailbox on stairs near main classrooms of Faculty of Fine Arts in Brno.

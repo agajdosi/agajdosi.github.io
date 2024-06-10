@@ -2,7 +2,7 @@
 title = 'Konec Vlády Autostrády / The End of the Motorway Rule'
 date = 2023-05-10T11:00:00+01:00
 draft = false
-tags = ["artivism", "ecology", "environment", "Prague", "politics", "transportation", "socialist realism"]
+tags = ["artivism", "ecology", "Prague", "politics", "transportation", "socialist realism"]
 description = "Discover 'Thirty for Prague' posters: Satirical artwork depicting Mayor Svoboda as a communist dictator, advocating against 30km/h speed limit on Prague's Magistrála built by communists."
 +++
 

@@ -2,7 +2,7 @@
 title = 'Truthify'
 date = 2022-03-01T16:05:48+01:00
 draft = false
-tags = ["video", "neural_networks", "dataset", "ai"]
+tags = ["video", "dataset", "ai"]
 description = "Truthify is a speculative short film exploring the manipulation of neural networks through biased datasets. Discover the impacts on future AI perceptions caused by dataset lobbying. In collaboration with Vilém Duha and Petr Racek."
 +++
 Truthify, in collaboration with Vilem Duha and Petr Racek, is a speculative video (7:38) about the eponymous startup that seeks to manipulate the perception of reality of future neural networks through the manipulation of open source datasets.

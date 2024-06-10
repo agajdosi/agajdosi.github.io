@@ -2,7 +2,7 @@
 title = 'Mail from mr. Ondracka'
 date = 2017-03-01T16:05:48+01:00
 draft = false
-tags = ["intervention", "hacktivism", "artistic_education"]
+tags = ["intervention", "hacktivism", "artistic education"]
 description = "Discover the provocative art project by students at FFA: a fake email announcing beneficial changes inspired by ELIA's report, sparking enthusiasm before being exposed."
 +++
 Using custom bash script and telnet I have sent fake mail to vast majority of students at Faculty of Fine Arts.

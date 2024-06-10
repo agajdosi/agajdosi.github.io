@@ -2,7 +2,7 @@
 title = 'Tauto'
 date = 2021-06-01T16:05:48+01:00
 draft = false
-tags = ["software", "intervention", "social_network", "artivism", "bots"]
+tags = ["software", "intervention", "social network", "artivism", "bots"]
 description = "Tauto is a software art tool that automates Twitter interactions via bot accounts. A powerful utility for activists, blending art, intervention and manipulative trolling."
 +++
 Tauto is artistic software for activists and anybody else which allows to spread comments on Twitter.
