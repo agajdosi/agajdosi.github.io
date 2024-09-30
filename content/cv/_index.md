@@ -5,8 +5,8 @@ draft = false
 description = "Artistic CV of czech new media artist Andreas Gajdosik. List of exhibitions, publications, talks, residencies and much more."
 +++
 
+Andreas Gajdosik is czech new media artist.
 Born 1992, Czech and Slovak Federative Republic, based in Prague.
-Is an artist and software developer.
 He focuses on useful art, socially engaged projects and artivism which often incorporate programming, new technologies and interventional provocative attitudes.
 He is interested in ethical source software, sharing, DIY culture and experimental forms.
 Was member of dissolved Pavel Ondračka collective.
@@ -19,6 +19,8 @@ Award holder of Jindrich Chalupecky Award 2019.
 - 2012-2016: Bachelors study - Brno University of Technology, Faculty of Fine Arts, Multimedia Studio - Filip Turek, Mgr. Slavomir Krekovic, Ph.D. +
 
 ### Exhibitions
+* 2024
+** Biased Play, Trinec City Gallery, Třinec, CZ
 * 2022
 ** It's in your hands, router.gallery, Berlin, DE
 * 2021
@@ -38,6 +40,12 @@ Award holder of Jindrich Chalupecky Award 2019.
 
 ### Group Exhibitions
 
+* 2024
+** Škvíra v Extázi II, Sculpture ark Olšiny, Prague, CZ
+** Re-connect Art biennale, Prague, CZ
+** Good Job, Hraničář gallery, Ústí nad Labem, CZ
+* 2023
+** Škvíra v Extázi, Sculpture park Olšiny, Prague, CZ
 * 2022
 ** Can We Help You?, Gampa - City Gallery Pardubice, CZ
 * 2021
