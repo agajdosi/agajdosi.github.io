@@ -21,54 +21,55 @@ Award holder of Jindrich Chalupecky Award 2019.
 
 ### Exhibitions
 * 2024
-** Biased Play, Trinec City Gallery, Třinec, CZ
+* * Biased Play, Trinec City Gallery, Třinec, CZ
 * 2022
-** It's in your hands, router.gallery, Berlin, DE
+* * It's in your hands, router.gallery, Berlin, DE
 * 2021
-** App-art 3: Bots of obvia & nomin, Kontext Gallery, Brno, CZ
+* * App-art 3: Bots of obvia & nomin, Kontext Gallery, Brno, CZ
 * 2020
-** The Best of Possible Researches, collaboration with Barbora Šimková, Vysocina Regional Gallery in Jihlava, CZ
-** Seventh Class, collaboration with Barbora Šimková, Gallery Art, Brno, CZ
+* * The Best of Possible Researches, collaboration with Barbora Šimková, Vysocina Regional Gallery in Jihlava, CZ
+* * Seventh Class, collaboration with Barbora Šimková, Gallery Art, Brno, CZ
 * 2018
-** Conclusions of Police Investigation, Gallery Umakart, Brno, CZ
+* * Conclusions of Police Investigation, Gallery Umakart, Brno, CZ
 * 2017
-** Do It Yourself, gallery Rampa, Faculty of Art and Design, Usti nad Labem, CZ
-** Take Away, MP7 Gallery, festival TRANSFORMA, Tabor, CZ
+* * Do It Yourself, gallery Rampa, Faculty of Art and Design, Usti nad Labem, CZ
+* * Take Away, MP7 Gallery, festival TRANSFORMA, Tabor, CZ
 * 2016
-** Rising Superstar Hotline, media event and performance as member of group Pavel Ondracka, Manifesta 11, Cabaret Voltaire, Zurich, Switzerland
+* * Rising Superstar Hotline, media event and performance as member of group Pavel Ondracka, Manifesta 11, Cabaret Voltaire, Zurich, Switzerland
 * 2014
-** Digital Subconsciousness, gallery Art, Brno, CZ
+* * Digital Subconsciousness, gallery Art, Brno, CZ
 
 ### Group Exhibitions
 
 * 2024
-** Škvíra v Extázi II, Sculpture ark Olšiny, Prague, CZ
-** Re-connect Art biennale, Prague, CZ
-** Good Job, Hraničář gallery, Ústí nad Labem, CZ
+* * Bezohlední / Unscrupulous, Off Format Gallery, Brno, CZ
+* * Škvíra v Extázi II, Sculpture ark Olšiny, Prague, CZ
+* * Re-connect Art biennale, Prague, CZ
+* * Good Job, Hraničář gallery, Ústí nad Labem, CZ
 * 2023
-** Škvíra v Extázi, Sculpture park Olšiny, Prague, CZ
+* * Škvíra v Extázi, Sculpture park Olšiny, Prague, CZ
 * 2022
-** Can We Help You?, Gampa - City Gallery Pardubice, CZ
+* * Can We Help You?, Gampa - City Gallery Pardubice, CZ
 * 2021
-** All Idiots, Meetfactory Gallery, Prague, CZ
-** The More Profiles You Have, The More of a Person You Are, House of Arts Usti nad Labem, CZ
-** The Art of Appreciating, Modern Gallery AVU, Prague, CZ
-** Unscrupulous, Photogether Gallery, Zlín, CZ
-** Here and now!, with Global Genocide Inc., Brno House of Arts, Brno, CZ
+* * All Idiots, Meetfactory Gallery, Prague, CZ
+* * The More Profiles You Have, The More of a Person You Are, House of Arts Usti nad Labem, CZ
+* * The Art of Appreciating, Modern Gallery AVU, Prague, CZ
+* * Unscrupulous, Photogether Gallery, Zlín, CZ
+* * Here and now!, with Global Genocide Inc., Brno House of Arts, Brno, CZ
 * 2020
-** Sand in the Gears, gallery PLATO Ostrava, CZ
-** Inhabitated.net, Ústí nad Labem House of Arts, CZ
+* * Sand in the Gears, gallery PLATO Ostrava, CZ
+* * Inhabitated.net, Ústí nad Labem House of Arts, CZ
 * 2019
-** The Power of the Powerless, Kunsthalle Bratislava, Slovakia
-** Jindřich Chalupecký Award 2019, Moravian Gallery, Brno, CZ
+* * The Power of the Powerless, Kunsthalle Bratislava, Slovakia
+* * Jindřich Chalupecký Award 2019, Moravian Gallery, Brno, CZ
 * 2017
-** The Last Word, Gallery In:Out, Bratislava, Slovakia
+* * The Last Word, Gallery In:Out, Bratislava, Slovakia
 * 2015
-** Exhibition of Painters, Milos Zeman Gallery, Faculty of Fine Arts, Brno, CZ
-** Intuition, Vasulka Chamber, National Gallery of Iceland, Reikjavik, Iceland
+* * Exhibition of Painters, Milos Zeman Gallery, Faculty of Fine Arts, Brno, CZ
+* * Intuition, Vasulka Chamber, National Gallery of Iceland, Reikjavik, Iceland
 * 2014
-** World Wide Waldeinsamkeit, gallery Oberwelt, Stuttgart, Germany
-** Hypertext, gallery Aula, Faculty of Fine Arts, Brno, CZ
+* * World Wide Waldeinsamkeit, gallery Oberwelt, Stuttgart, Germany
+* * Hypertext, gallery Aula, Faculty of Fine Arts, Brno, CZ
 
 ### Collectives
 * 2019-2021: member of artistic group / fake company link:https://global-genocide.com[Global Genocide Inc.]
