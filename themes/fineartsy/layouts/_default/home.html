@@ -1,9 +1,12 @@
 {{ define "main" }}
   {{ .Content }}
 
-  <h1>Latest</h1>
-  {{ $pages := where .Site.RegularPages "Section" "not in" (slice "exhibitions" "cv" "thoughts") }}
-  {{ range first 5 (sort $pages "Date" "desc") }}
+  <!-- Politically Engaged, Digitally Uncaged -->
+  <!-- Art as Intervention in Networks, Politics & Culture -->
+
+  <h1>Latest Updates</h1>
+  {{ $pages := where .Site.RegularPages "Section" "not in" (slice "exhibitions" "cv") }}
+  {{ range first 10 (sort $pages "Date" "desc") }}
     <article>
       
       <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>

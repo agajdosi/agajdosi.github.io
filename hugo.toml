@@ -13,3 +13,4 @@ enableRobotsTXT = true
     exhibitions = "exhibition"
     mentions = "mention"
     thoughts = "thought"
+    texts = "text"
