@@ -46,5 +46,6 @@ Nejjednoduší způsob, jak s takovou změnou začít, je začít používat svo
 
 ---
 Tento text byl původně publikován na webu [GobGob.org](https://www.gobgob.org/2025/01/20/goblog-na-barikadach-svobodneho-internetu/?ref=gajdosik.org).
+Editační konzultace: Medard Zeman.
 
 For english version please visit: [GobGob.org](https://www.gobgob.org/2025/01/20/goblog-na-barikadach-svobodneho-internetu/?ref=gajdosik.org).
