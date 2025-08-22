@@ -20,6 +20,8 @@ Award holder of Jindrich Chalupecky Award 2019.
 - 2012-2016: Bachelors study - Brno University of Technology, Faculty of Fine Arts, Multimedia Studio - Filip Turek, Mgr. Slavomir Krekovic, Ph.D. +
 
 ### Exhibitions
+* 2025
+* * [Feed’Em, Screen Saver Gallery, online](https://screensaver.gallery/andreas-gajdosik-feedem)
 * 2024
 * * Biased Play, Trinec City Gallery, Třinec, CZ
 * 2022
@@ -41,6 +43,8 @@ Award holder of Jindrich Chalupecky Award 2019.
 
 ### Group Exhibitions
 
+* 2025
+* * Podklady pro uvažování, Hraničář gallery, Ústí nad Labem, CZ
 * 2024
 * * Bezohlední / Unscrupulous, Off Format Gallery, Brno, CZ
 * * Škvíra v Extázi II, Sculpture ark Olšiny, Prague, CZ
@@ -72,8 +76,8 @@ Award holder of Jindrich Chalupecky Award 2019.
 * * Hypertext, gallery Aula, Faculty of Fine Arts, Brno, CZ
 
 ### Collectives
-* 2019-2021: member of artistic group / fake company link:https://global-genocide.com[Global Genocide Inc.]
-* 2017-2019: member of performative noise music group European Union (link:https://www.facebook.com/europeanband/[facebook], link:https://soundcloud.com/user-716382808[soundcloud], link:https://www.youtube.com/watch?v=rJ6pEQ7n9mc[youtube])
+* 2019-2021: member of artistic group / fake company Global Genocide Inc.
+* 2017-2019: member of performative noise music group European Union ([soundcloud](https://soundcloud.com/user-716382808), [youtube](https://www.youtube.com/watch?v=rJ6pEQ7n9mc))
 * 2015-2017: member of DIY Studio of Pavel Ondracka at FFA VUT (link:https://www.facebook.com/atelierPavlaOndracky?fref=ts[facebook])
 * 2014-2017: member of performative noise music group Pavel Ondracka (link:https://www.facebook.com/PabloOndracka/[facebook], link:https://soundcloud.com/pavel-ondracka[soundcloud], link:https://www.youtube.com/watch?v=6SlaNV7V4-0[youtube])
 

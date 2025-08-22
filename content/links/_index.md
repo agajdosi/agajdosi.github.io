@@ -9,18 +9,16 @@ weight = 5
 For more information about art in network and software, check my knowledge base and blog [art@net&software](https://art-net-software.gajdosik.org).
 
 ## Contact
-### Decentralised media (preferred)
+### Decentralised media (prefer this)
 
 - Email: andreas(at)gajdosik.org
 - Mastodon: [@agajdosi@witter.cz](https://witter.cz/@agajdosi)
 - Matrix chat: [@agajdosi:nolog.chat](https://matrix.to/#/@agajdosi:nolog.chat)
-- Meshtastic: ANDY UserId=!33476b6c NodeNumber=860318572 catch me in [Prague mesh](https://czmesh.cz/) 
 
-### Centralised (!pls)
+### Centralised (pls not)
 
 - Github: [@agajdosi](https://github.com/agajdosi)
 - IG: [@andy.gajdosik](https://www.instagram.com/andy.gajdosik/)
-
 
 ## Public mentions
 - [Reportáž z výstavy Biased Play @ Artycok.tv](https://artycok.tv/cs/post/biased-play)
@@ -35,7 +33,3 @@ For more information about art in network and software, check my knowledge base 
 - [Často slýchávám otázku „Co je na tom za umění?“ @ Artalk.cz](https://artalk.cz/2019/04/30/andreas-gajdosik-casto-slychavam-otazku-co-je-na-tom-za-umeni/)
 - [Trollení jako umění @ Rádio Wave](https://wave.rozhlas.cz/trolleni-jako-umeni-rozhovor-s-andreasem-gajdosikem-finalistou-ceny-jindricha-7890465)
 - [Baví mě princip užitečného umění @ Zvut.cz](https://zvut.cz/lide/lide-f38102/bavi-me-princip-uzitecneho-umeni-rika-andreas-gajdosik-z-favu-vut-nominovany-na-cenu-jindricha-chalupeckeho-d186041)
-
-## Apendix
-
-For music & cultural blogposts from Prague, please check [GobGob platform](https://gobgob.org) which I am part of.
