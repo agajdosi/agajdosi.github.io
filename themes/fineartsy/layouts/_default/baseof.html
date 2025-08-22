@@ -10,10 +10,14 @@
 <body>
   {{ partial "header.html" . }}
   
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
-  
+  <div id="stuff">
+    <div id="left"></div>
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+    <div id="right"></div>
+  </div>
+
   <footer>
     {{ partial "footer.html" . }}
   </footer>
