@@ -7,6 +7,21 @@ jobs:
   deploy:
     runs-on: codeberg-tiny-lazy
     steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - uses: actions/setup-go@v4
+        with:
+          go-version: '>=1.21.0'
+      
+      - name: Setup Hugo
+        uses: github.com/peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.119.0'
+          # extended: true
+
       - name: Build
-        run: echo "Hello world!"
+        run: hugo --minify
 
