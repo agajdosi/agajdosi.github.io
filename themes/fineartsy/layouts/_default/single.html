@@ -4,6 +4,14 @@
     {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
     {{ $dateHuman := .Date | time.Format "2 January 2006" }}
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    
+    |
+    <a href="{{ .Site.BaseURL }}{{ .Section | urlize }}">{{ index .Site.Params.sectionSingularNames .Section | default .Section }}</a>
+    {{ with .Params.tags }}>{{ end }}
+    {{ range .Params.tags }}
+      <a class="tag" href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/">#{{ . }}</a>
+    {{ end }}
+
   </div>
   {{ .Content }}
 {{ end }}
