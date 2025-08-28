@@ -17,6 +17,17 @@
       <p>
         {{ .Summary }}
       </p>
+
+      {{ $pageURL := .Permalink}}
+      {{ $img := .Resources.GetMatch "{cover,featured,preview}*" }}
+        {{ if not $img }}
+          {{ $img = .Resources.GetMatch "*.{jpg,jpeg,png,webp,gif,avif}" }}
+        {{ end }}
+        {{ with $img }}
+        <a href="{{ $pageURL }}" class="post-thumb">
+          <img src="{{ .RelPermalink }}" alt="{{ $.Title }}">
+        </a>
+      {{ end }}
     </article>
   {{ end }}
 

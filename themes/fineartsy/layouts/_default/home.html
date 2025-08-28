@@ -25,7 +25,7 @@
       <p>{{ .Summary }}</p>
 
       {{ $pageURL := .Permalink}}
-      {{ $img := .Resources.GetMatch "{cover,featured}*" }}
+      {{ $img := .Resources.GetMatch "{cover,featured,preview}*" }}
         {{ if not $img }}
           {{ $img = .Resources.GetMatch "*.{jpg,jpeg,png,webp,gif,avif}" }}
         {{ end }}
