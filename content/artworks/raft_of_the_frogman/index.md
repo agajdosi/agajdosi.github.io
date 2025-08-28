@@ -17,6 +17,6 @@ Vacation on a warming lake turned into a nightmare for the unaware ICT worker, M
 ![](4.jpg)
 ![](2.jpg)
 ![](3.jpg)
-![](5.jpg)
+![](cover.jpg)
 
 Photo: [Lukáš Hlavín](https://www.instagram.com/lukonano/)

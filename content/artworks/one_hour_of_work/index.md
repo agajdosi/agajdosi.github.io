@@ -11,5 +11,5 @@ The photographs do not only refer working author or his graphical card on visual
 Thus the more earning work, the bigger photography.
 
 ![](1.jpg)
-![](2.jpg)
+![](cover.jpg)
 ![](3.jpg)

@@ -17,6 +17,6 @@ See the artwork yourself at [dobronebozlo.cz](https://dobronebozlo.cz/?ref=gajdo
 
 
 ![Welcome page, screenshot](1.jpg)
-![The quiz, correct answer, screenshot](2.jpg)
+![The quiz, correct answer, screenshot](cover.jpg)
 ![The quiz, wrong answer, screenshot](3.jpg)
 ![Quiz results, screenshot](4.jpg)

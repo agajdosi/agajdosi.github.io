@@ -18,4 +18,4 @@ Magistrála was built by the communist regime and defended by the current right-
 ![Konec Vlády Autostrády, artwork](ag_konec_vlady_autostrady_1.png)
 ![Konec Vlády Autostrády, artwork](ag_konec_vlady_autostrady_3.png)
 ![Konec Vlády Autostrády, artwork](ag_konec_vlady_autostrady_4.png)
-![Konec Vlády Autostrády, artwork](ag_konec_vlady_autostrady_5.png)
+![Konec Vlády Autostrády, artwork](cover.png)
