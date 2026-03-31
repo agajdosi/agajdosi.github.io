@@ -2,6 +2,14 @@
     <div class="left">
         <a href="{{ .Site.BaseURL }}">gajdosik.org</a>
     </div>
+
+    <div>
+        <a href="https://art.webring.cz/webring.html?action=prev"> < </a>
+        <a href="https://art.webring.cz/webring.html?action=home"> art.webring.cz </a>
+        <a href="https://art.webring.cz/webring.html?action=rand"> ? </a>
+        <a href="https://art.webring.cz/webring.html?action=next"> > </a>
+    </div>
+
     <div class="right">
         {{ range sort .Site.Sections "Weight" "desc" }}
             <a href="{{ .Permalink }}">{{ .Title }}</a>
