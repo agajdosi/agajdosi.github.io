@@ -3,7 +3,8 @@ title = 'Love Your Nation'
 date = 2020-05-01T08:16:16+01:00
 draft = false
 tags = ["nationalism", "flag", "Czechia", "video", "sex toys", "arte util", "DIY"]
-description = ""
+description = "Love Your Nation is an artwork thematizing the nationalism as a form of love of one's own nation.
+What happens when the love exceedes the limits of control and overflows into a sexual desire towards own nation?"
 +++
 
 Love Your Nation is an artwork thematizing the nationalism as a form of love of one's own nation.
