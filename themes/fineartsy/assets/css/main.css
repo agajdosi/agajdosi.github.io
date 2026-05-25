@@ -59,3 +59,13 @@ article {
 article h2 {
   margin: 0;
 }
+
+.tip {
+  position: relative;
+  max-width: 400px;
+  left: 40vw;
+  font-style: italic;
+}
+.tip:nth-of-type(2){
+  left: -20vw;
+}
