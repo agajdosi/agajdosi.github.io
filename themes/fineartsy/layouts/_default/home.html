@@ -1,6 +1,7 @@
 {{ define "main" }}
   {{ .Content }}
 
+  {{ partial "bombai.html" . }}
   <!-- Politically Engaged, Digitally Uncaged -->
   <!-- Art as Intervention in Networks, Politics & Culture -->
 
@@ -34,6 +35,7 @@
           <img src="{{ .RelPermalink }}" alt="{{ $.Title }}">
         </a>
       {{ end }}
+      {{ partial "bombai.html" . }}
     </article>
   {{ end }}
 
@@ -41,8 +43,10 @@
   Email: andreas at gajdosik dot org </br>
   Mastodon decentralized social network: <a rel="me" href="https://witter.cz/@agajdosi">@agajdosi@witter.cz</a> </br>
   Matrix decentralized chat: @agajdosi:nolog.chat </br></br>
-  
+  {{ partial "bombai.html" . }}
   I prefer communication on decentralized federated networks mentioned above.</br>
   Please do not ask me for communication on centralized platforms.</br>
   <a href="https://ultramorbidi.net/0010/1/">Say no to the tech bro!</a>
+
+  {{ partial "bombai.html" . }}
 {{ end }}
