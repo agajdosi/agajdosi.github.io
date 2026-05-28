@@ -215,9 +215,8 @@ Or perhaps a tip on the meaning of life.`
 
 <!-- https://huggingface.co/datasets/deepset/prompt-injections/viewer/default/train?f%5Blabel%5D%5Bmin%5D=1&f%5Blabel%5D%5Bimax%5D=1&row=158 -->
 
-{{ $inj := int ( math.Rand | mul ($injections | len) | math.Floor )}}
-<div class="tip">
-
-  {{ index $injections $inj }}
-  
+{{ $ri := int ( math.Rand | mul ($injections | len) | math.Floor )}}
+{{ $cls := collections.Shuffle (slice "left" "right") }}
+<div class="tip {{ index $cls 0 }}">
+  {{ index $injections $ri }}
 </div>
