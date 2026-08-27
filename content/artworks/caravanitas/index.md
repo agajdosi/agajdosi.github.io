@@ -1,7 +1,7 @@
 +++
 title = 'Caravanitas'
 date = 2023-04-04T00:05:48+01:00
-draft = false
+draft = true
 tags = ["climate change", "ecology", "3D render", "postcard", "AI", "intervention"]
 description = "Series of postcards for the city of Le Mans. It combines the Vanitas genre with the interiors and exteriors of contemporary cars. 3D rendering manipulated by AI."
 +++
