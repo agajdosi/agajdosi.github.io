@@ -21,6 +21,7 @@ For more information about art in network and software, check my knowledge base 
 - IG: [@andy.gajdosik](https://www.instagram.com/andy.gajdosik/)
 
 ## Public mentions
+- [Co-kdy-kde v kultuře si umíme sdělit i bez algoritmického feedu centralizovaných platforem @ ArtCafé, Český rozhlas Vltava](https://vltava.rozhlas.cz/co-kdy-kde-v-kulture-si-umime-sdelit-i-bez-algoritmickeho-feedu-centralizovanych-9643336)
 - [Rozhovor o devent.cz a dalších projektech @ Blog digitálních svobod od IuRe](https://blog.digitalnisvobody.cz/2026/08/07/novy-internet-je-zpet-znate-kinokinokino-detidetideti-datumdutam-nebo-devent/)
 - [Reportáž z výstavy Biased Play @ Artycok.tv](https://artycok.tv/cs/post/biased-play)
 - [Výstava naučí vnímat lidskou jedinečnost @ eHutník.cz](https://ehutnik.cz/zpravy/vystava-nauci-vnimat-lidskou-jedinecnost)
