@@ -13,9 +13,9 @@ He received the Jindřich Chalupecký Award in 2019.
 
 ### Education
 
-- 2019: Doctoral study - Brno University of Technology, Faculty of Fine Arts - doc. MgA. Mikuláš Macháček
+- 2019-2026: Doctoral study - thesis: [Digital Platform as an Unreliable Narrator](https://dspace.vut.cz/items/d378bd97-7e72-4a79-82a4-71e3aae89c6d), Brno University of Technology, Faculty of Fine Arts - doc. MgA. Mikuláš Macháček
 - 2016-2018: Masters study - Brno University of Technology, Faculty of Fine Arts, Intermedia Studio - MgA. Pavel Sterec, Ph.D.
-- 2012-2016: Bachelors study - Brno University of Technology, Faculty of Fine Arts, Multimedia Studio - Filip Turek, Mgr. Slavomir Krekovic, Ph.D.
+- 2012-2016: Bachelors study - Brno University of Technology, Faculty of Fine Arts, Multimedia Studio - Filip Turek, Mgr. Slavomír Krekovič, Ph.D.
 
 ### Awards
 * Award holder of [Josef Hlavka Award](http://www.hlavkovanadace.cz/cinnost_2021.php) 2021 for young academics
