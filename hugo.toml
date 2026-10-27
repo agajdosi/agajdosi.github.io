@@ -1,5 +1,5 @@
 baseURL = 'https://gajdosik.org/'
-languageCode = 'en-us'
+language.locale = 'en-us'
 title = 'Andreas Gajdosik'
 theme = 'fineartsy'
 enableRobotsTXT = true
