@@ -109,6 +109,8 @@ He received the Jindřich Chalupecký Award in 2019.
   * Platform for Intervention of Electronic Media, Brno, CZ - organization
 
 ### Residencies & Schools
+* 2026
+  * [Web Residency - Ignore All Previous Instructions](https://www.akademie-solitude.de/de/postproject/web-residencies/calls-2026/ignore-all-previous-instructions/) (as part of art group automatonomy.net), Akademie Schloss Solitude, Germany, curated by [!Mediengruppe Bitnik](https://wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww.bitnik.org/)
 * 2023
   * [Residency at TALM Le Mans](https://esad-talm.fr/en/actualites/residence-d-andreas-gajdosik-regard-sur-la-ville), France
 * 2020
