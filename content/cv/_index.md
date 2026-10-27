@@ -110,15 +110,15 @@ He received the Jindřich Chalupecký Award in 2019.
 
 ### Residencies & Schools
 * 2023
-  * [residency at TALM Le Mans](https://esad-talm.fr/en/actualites/residence-d-andreas-gajdosik-regard-sur-la-ville), France
+  * [Residency at TALM Le Mans](https://esad-talm.fr/en/actualites/residence-d-andreas-gajdosik-regard-sur-la-ville), France
 * 2020
-  * artistic residency at Czech Centre Bucharest, Romania
+  * Artistic residency at Czech Centre Bucharest, Romania
 * 2019
   * The Bratislava BAK Winter School, participant, LOM, Bratislava, Slovak Republic
   * New Alphabet School: (Un-)Learning Place, participant, Haus der Kulturen der Welt, Berlin, Germany
 
 ### Collectives
-* 2025+: automatonomy.net
+* 2025+: [automatonomy.net](https://automatonomy.net)
 * 2020-2026: Kalich, an industrial noise techno duo ([bandcamp](https://wrongtapes.bandcamp.com/album/technofeudalismus)) 
 * 2019-2021: Global Genocide Inc., an artistic group / fake company
 * 2017-2019: European Union, a performative noise music group  ([soundcloud](https://soundcloud.com/user-716382808), [youtube](https://www.youtube.com/watch?v=rJ6pEQ7n9mc))
