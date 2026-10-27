@@ -44,9 +44,8 @@ He received the Jindřich Chalupecký Award in 2019.
   * Digital Subconsciousness, gallery Art, Brno, CZ
 
 ### Group Exhibitions
-
 * 2026
-  * ShadowFrame, Brno House of Arts - G99, CZ
+  * [ShadowFrame, Brno House of Arts - G99, CZ](https://www.dum-umeni.cz/shadowframe/t10113)
 * 2025
   * Podklady pro uvažování, Hraničář gallery, Ústí nad Labem, CZ
 * 2024
