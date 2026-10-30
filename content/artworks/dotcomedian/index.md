@@ -9,8 +9,9 @@ Dotcomedian.com (a social network) [2025] is an ironic work of art that invites 
 The work presents the viewer with a social network literally glued to the wall right before their eyes, while also being accessible online on their smartphone at the domain specified in its title: [dotcomedian.com](https://dotcomedian.com).
 It thus creates a contrast between the widespread perception of a social network as a massive Moloch and a low-tech implementation running on a more than 10-year-old BananaPi M1+ single-board computer worth 12 euros.
 
-![Single board computer BananaPi M1+ duct-taped to a white wall, with a black USB powercable, lighted red LED diode and a mini wifi antenna hanging.](dotcomedian.jpg)
-
 Here, a social network isn’t a gigantic megastructure made up of dozens of massive data centers, but rather a somewhat low-key, almost unobtrusive, minimalist technology.
 Even so, visitors can connect to hundreds of thousands of users on the decentralized Fediverse network—all via technology held together with ordinary adhesive tape and powered by a standard USB smartphone charger.
 In Dotcomedian.com, the social network thus resembles a mundane everyday object, much like the banana in Maurizio Cattelan’s installation *Comedian*, to which the work refers through its title, installation, and the computer used.
+
+![Single board computer BananaPi M1+ duct-taped to a white wall, with a black USB powercable, lighted red LED diode and a mini wifi antenna hanging.](dotcomedian.jpg)
+Photo: by Eva Rybářová, for G99, Brno.
